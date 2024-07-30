@@ -1,1 +1,1 @@
-project
+A fun number guessing game.
